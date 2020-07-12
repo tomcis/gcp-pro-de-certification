@@ -21,4 +21,8 @@ Course | Duration | Price | Free trial
 * [GCP security best practices and summary](https://www.assured.se/2019/12/19/gcp-security)
 * [Up to date quick summary about the different databases](https://cloud.google.com/products/databases)
 
+## Checklist of exam topics:
+
+* [GCP Professional Certifications - Study Guides by Ivam Luz (in Google Sheets)](https://docs.google.com/spreadsheets/d/1LUtqhOEjUMySCfn3zj8Arhzcmazr3vrPzy7VzJwIshE)
+
 [logo]: assets/gcp-logo.png "GCP logo"
