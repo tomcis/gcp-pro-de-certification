@@ -14,13 +14,13 @@ Course | Duration | Price | Free trial
 
 ## Blog posts on preparation/passing the exam:
 
-* 📝 [How I Passed the Google Cloud Professional Data Engineer Certification Exam](https://towardsdatascience.com/passing-the-google-cloud-professional-data-engineer-certification-87da9908b333)
-* 📝 [How to prepare for the Google Cloud Data Engineer Certification](https://www.notion.so/GCP-Certification-00763029549e4672887d5281ec247f42)
-* 📝 [Google Cloud Certified Professional Data Engineer - 2019 Updated exam](https://deploy.live/blog/google-cloud-certified-professional-data-engineer/)
-* 📝 [The Ultimate Hack to passing Google Cloud Professional Data Engineer Certification Exam (2019 Oct)](https://medium.com/@sodiumsun/the-ultimate-hack-to-passing-google-cloud-professional-data-engineer-certification-exam-2019-oct-663b2dfac492)
-* 📝 [Notes from my Google Cloud Professional Data Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0)
-* 📝 [GCP Professional Cloud Architect certification: tips and feedback](https://medium.com/@belougatech/gcp-professional-cloud-architect-certification-tips-and-feedback-9813110613aa)
-* 📝 [Google Cloud Certified Professional - Data Engineer Track](https://www.linkedin.com/pulse/google-cloud-certified-professional-data-engineer-writeup-rix/)
+* 📝&nbsp;&nbsp;[How I Passed the Google Cloud Professional Data Engineer Certification Exam](https://towardsdatascience.com/passing-the-google-cloud-professional-data-engineer-certification-87da9908b333)
+* 📝&nbsp;&nbsp;[How to prepare for the Google Cloud Data Engineer Certification](https://www.notion.so/GCP-Certification-00763029549e4672887d5281ec247f42)
+* 📝&nbsp;&nbsp;[Google Cloud Certified Professional Data Engineer - 2019 Updated exam](https://deploy.live/blog/google-cloud-certified-professional-data-engineer/)
+* 📝&nbsp;&nbsp;[The Ultimate Hack to passing Google Cloud Professional Data Engineer Certification Exam (2019 Oct)](https://medium.com/@sodiumsun/the-ultimate-hack-to-passing-google-cloud-professional-data-engineer-certification-exam-2019-oct-663b2dfac492)
+* 📝&nbsp;&nbsp;[Notes from my Google Cloud Professional Data Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0)
+* 📝&nbsp;&nbsp;[GCP Professional Cloud Architect certification: tips and feedback](https://medium.com/@belougatech/gcp-professional-cloud-architect-certification-tips-and-feedback-9813110613aa)
+* 📝&nbsp;&nbsp;[Google Cloud Certified Professional - Data Engineer Track](https://www.linkedin.com/pulse/google-cloud-certified-professional-data-engineer-writeup-rix/)
 
 ## Useful links to relevant exam topics:
 
@@ -39,10 +39,10 @@ Course | Duration | Price | Free trial
 
 ### Checklist of exam topics (make a copy of it and track your own progress):
 
-* ☑️ [GCP Professional Certifications - Study Guides by Ivam Luz (in Google Sheets)](https://docs.google.com/spreadsheets/d/1LUtqhOEjUMySCfn3zj8Arhzcmazr3vrPzy7VzJwIshE)
+* ☑&nbsp;&nbsp;[GCP Professional Certifications - Study Guides by Ivam Luz (in Google Sheets)](https://docs.google.com/spreadsheets/d/1LUtqhOEjUMySCfn3zj8Arhzcmazr3vrPzy7VzJwIshE)
 
 ## Contributing
 
-Are we missing any new cool resource or course which would be relevant when studying for the exam or practising real life ``GCP`` use cases? Feel free to submit a pull request and contribute to this open-source knowledge sharing ``GCP DE`` database.
+Are we missing any new cool resource or course which would be relevant when studying for the exam or practicing real-life ``GCP`` use cases? Feel free to submit a pull request and contribute to this open-source knowledge sharing ``GCP DE`` database.
 
 [logo]: assets/gcp-logo.png "GCP logo"
