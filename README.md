@@ -2,6 +2,8 @@
 
 ![alt text][logo]
 
+Welcome to the GCP Professional Data Engineer certification resources library. If you are just starting your journey, we would recommend you to first thoroughly go through the official [GCP Professional Data Engineer certification general information page](https://cloud.google.com/certification/data-engineer) and [GCP Professional Data Engineer certification guide](https://cloud.google.com/certification/guides/data-engineer). Hopefully, this library (full of ``GCP`` related resources) will help you on your journey of obtaining the well-deserved certificate. 🔥 Feel free to add any resources which helped you to pursue your unique learning path. 🏄‍♂️
+
 ## Available courses:
 
 Course | Duration | Price | Free trial
