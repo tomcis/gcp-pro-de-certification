@@ -39,6 +39,10 @@ Course | Duration | Price | Free trial
 * 📹&nbsp;&nbsp;[Choosing between ``Cloud Run``, ``Cloud Functions`` and ``App Engine``](https://www.youtube.com/watch?v=c0XcLidqfXU)
 * 📹&nbsp;&nbsp;[Deciding between ``Compute Engine``, ``Container Engine``, ``App Engine`` and more](https://www.youtube.com/watch?v=g0dN8Hkh5H8)
 
+## Cheatsheets:
+
+* 🔖&nbsp;&nbsp;[Google Data Engineering Cheatsheet](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf)
+
 ### Checklist of exam topics (make a copy of it and track your own progress):
 
 * ☑&nbsp;&nbsp;[GCP Professional Certifications - Study Guides by Ivam Luz (in Google Sheets)](https://docs.google.com/spreadsheets/d/1LUtqhOEjUMySCfn3zj8Arhzcmazr3vrPzy7VzJwIshE)
